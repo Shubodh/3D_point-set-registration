@@ -1,12 +1,14 @@
 ## Introduction
 
-This is a tutorial for 3D point cloud registration using SVD based closed form approaches with known correspondences. In addition, we investigate additional objectives as detailed below under "Further Objectives".
+This is a general tutorial for 3D point cloud registration using SVD based closed form approaches with known correspondences. 
 
-The main blog post which provides theoretical/geometric justification can be found [here](https://www.notion.so/saishubodh/Minimum-point-correspondences-b-w-two-point-clouds-to-solve-for-transformation-between-them-f0d972001496410493a1613b9aada2d3).  
+We also investigate what the minimum number of corresponding points needed is to register two point sets. This problem seems deceptively simple but I couldn't find a clear answer in standard computer vision/robotics texts. Therefore, this post offers a concise answer from multiple perspectives: theoretical, algorithmic and from geometric intuition by going through the original papers from the 1960s.
 
-This repo supplements the blog post by providing the code.
+The main blog post providing theoretical/geometric justification can be found here: [Minimum point correspondences b/w two point clouds to solve for transformation between them](https://saishubodh.notion.site/Minimum-point-correspondences-b-w-two-point-clouds-to-solve-for-transformation-between-them-f0d972001496410493a1613b9aada2d3?pvs=4).  
 
-Read this README file (you're reading currently) completely to know which place is best for you to get started (ipython notebook/Notion page/blog post).
+This repo supplements the blog post by providing the code in the form of ipython notebook.
+
+Read this README file (you're reading currently) completely to know which place is best for you to get started (ipython notebook/Notion page).
 
 ## Problem 
 You have a set of 3D points observed from 2 different coordinate frames separated by a transformation (rotation + translation). In other words, you have 2 sets of the same 3D points and you want to estimate what the transformation between them two is. 
