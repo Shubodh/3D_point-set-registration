@@ -46,10 +46,11 @@ A detailed page has been created which explains theoretical justification in det
 If you found this work helpful, you could cite it as:
 ```
 @article{puligilla2024minpoint,
-  title={A tutorial on finding minimum point correspondences between two point sets},
-  author={Puliglla, Sai Shubodh},
-  journal={shubodhs. ai, Jul},
-  year={2024}
+  title   = "A tutorial on finding minimum point correspondences between two point sets",
+  author  = "Puliglla, Sai Shubodh",
+  journal = "shubodhs.ai",
+  year    = "2024",
+  month   = "Jul",
+  url     = "https://saishubodh.notion.site/A-tutorial-on-finding-minimum-point-correspondences-between-two-point-sets-f0d972001496410493a1613b9aada2d3?pvs=4"
 }
-
 ```
