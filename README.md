@@ -2,7 +2,7 @@
 
 This is a tutorial for 3D point cloud registration using SVD based closed form approaches with known correspondences. In addition, we investigate additional objectives as detailed below under "Further Objectives".
 
-This repo supplements [this notion page for theoretical/geometric justification](https://www.notion.so/saishubodh/Minimum-point-correspondences-b-w-two-point-clouds-to-solve-for-transformation-between-them-f0d972001496410493a1613b9aada2d3) and this blog post (link for the blog post to be added soon but Notion page is self sufficient).  
+This repo supplements [this notion page for theoretical/geometric justification](https://www.notion.so/saishubodh/Minimum-point-correspondences-b-w-two-point-clouds-to-solve-for-transformation-between-them-f0d972001496410493a1613b9aada2d3).  
 
 Read this README file (you're reading currently) completely to know which place is best for you to get started (ipython notebook/Notion page/blog post).
 
