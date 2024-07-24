@@ -37,7 +37,19 @@ The experimentation in the notebook concludes the following:
 ### Theoretically,
 A detailed page has been created which explains theoretical justification in detail. [Link here](https://www.notion.so/saishubodh/Minimum-point-correspondences-b-w-two-point-clouds-to-solve-for-transformation-between-them-f0d972001496410493a1613b9aada2d3)
 
-## FUTURE TODO
+## Future Improvements
 * Add code for solving scale as well. 
 * Address the question if you need only 3 for solving scale as well, both algorithmically and theoretically.
 * Kabsch algorithm and clear difference between the 3 algorithms?
+
+# Citation
+If you found this work helpful, you could cite it as:
+```
+@article{puligilla2024minpoint,
+  title={A tutorial on finding minimum point correspondences between two point sets},
+  author={Puliglla, Sai Shubodh},
+  journal={shubodhs. ai, Jul},
+  year={2024}
+}
+
+```
