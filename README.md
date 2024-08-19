@@ -51,6 +51,6 @@ If you found this work helpful, you could cite it as:
   journal = "shubodhs.ai",
   year    = "2024",
   month   = "Jul",
-  url     = "https://saishubodh.notion.site/A-tutorial-on-finding-minimum-point-correspondences-between-two-point-sets-f0d972001496410493a1613b9aada2d3?pvs=4"
+  url     = "https://shubodhs.ai/blog/tutorial-correspondences/"
 }
 ```
